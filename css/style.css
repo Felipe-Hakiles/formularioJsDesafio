@@ -15,7 +15,7 @@ main{
 }
 
 .imagem{
-    background-image: url(../css/imagem/bg-repeat.jpg);
+    background-image: url(imagem/bg-repeat.jpg);
     width: 100%;
     height: 900px;
 }
